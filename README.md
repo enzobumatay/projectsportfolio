@@ -6,6 +6,11 @@ Supply Chain Analytics | Python • Power BI • Excel
 
 This project is the completed requirement for a certification, where I analyzed inventory data to identify excess stock contributing to frozen capital. The project involved cleaning and preparing data with Python, building an interactive Power BI dashboard, and generating insights to support inventory optimization and working capital reduction.
 
+# [Analyzing Motorcycle Part Sales](https://github.com/enzobumatay/sales_motorcycleparts)
+Sales Analytics | PostgreSQL • SQL
+
+This project analyzes motorcycle parts sales data to understand revenue performance across product lines, warehouses, customer segments, payment methods, and time. Using SQL, the analysis identifies key sales drivers, performance trends, and growth opportunities to support data-driven decisions that can improve overall revenue performance.
+
 # [Analyzing Students' Mental Health](https://github.com/enzobumatay/analyzing_student_mental_health)
 Education Analytics | PostgreSQL • SQL
 
