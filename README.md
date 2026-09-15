@@ -1,6 +1,11 @@
 # Lorenzo Bumatay | Projects Portfolio
 Hi! I'm Lorenzo, an analyst with over 10 years of experience in mathematics and in data analytics using Python, SQL, Excel, and Power BI. This portfolio showcases analytics projects focused on solving real business problems through data-driven insights.
 
+# [Budget and Procurement Spend Variance Analysis](https://github.com/enzobumatay/budget_expenditure_analysis)
+Budget and Procurement Analytics | Python • Power BI • Power Query
+
+This project analyzes procurement spend and budget performance across departments, expense categories, vendors, and fiscal years. Using Python and Power BI, it identifies spending drivers, budget variances, and overspending areas to support better cost control and accountability.
+
 # [Frozen Capital Analysis](https://github.com/enzobumatay/portfolio_brave_analytics)
 Supply Chain Analytics | Python • Power BI • Excel
 
